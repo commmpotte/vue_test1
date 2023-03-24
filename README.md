@@ -3,6 +3,7 @@ Getting practice with Vue.js through creating easy note list
 
 # Intro
 Introducing a simple and intuitive note-taking app built on Vue.js!
+
 I have been exploring the dynamic functions of Vue.js and have learned how to work with styles and classes, as well as developed parts of Vue.js such as methods, computed properties, and watchers to perform actions with properties.
 
 Screenshot as usual.
